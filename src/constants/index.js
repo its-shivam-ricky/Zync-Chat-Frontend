@@ -163,20 +163,19 @@ export const THEMES = [
 ];
 
 export const LANGUAGES = [
-  "English",
-  "Spanish",
-  "French",
-  "German",
-  "Mandarin",
-  "Japanese",
-  "Korean",
-  "Hindi",
-  "Russian",
-  "Portuguese",
-  "Arabic",
-  "Italian",
-  "Turkish",
-  "Dutch",
+  "US",
+  "Spain",
+  "french",
+  "Germany",
+  "Japan",
+  "korea",
+  "India",
+  "Russia",
+  "portuguese",
+  "Arabia",
+  "Italy",
+  "Turky",
+  
 ];
 
 export const LANGUAGE_TO_FLAG = {
