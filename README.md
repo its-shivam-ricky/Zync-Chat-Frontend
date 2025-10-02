@@ -298,15 +298,25 @@ const authMiddleware = (req, res, next) => {
 ---
 
 ## 📱 Screenshots
-
 <div align="center">
-  
-  ### 🖥️ Desktop View
-  ![Desktop Screenshot](path-to-desktop-screenshot)
-  
-  ### 📱 Mobile View
-  ![Mobile Screenshot](path-to-mobile-screenshot)
-  
+login page
+ <img width="2880" height="1800" alt="Screenshot 2025-10-02 204706" src="https://github.com/user-attachments/assets/da7595e6-2325-4f0a-be31-7d0887acd8e7" />
+Sign Up page
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 204722" src="https://github.com/user-attachments/assets/73723fbe-0dc5-4709-9840-d628ee2a247c" />
+onboarding page
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 204824" src="https://github.com/user-attachments/assets/504920a3-4264-46bb-9763-9111df6b8748" />
+Home Page
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 205039" src="https://github.com/user-attachments/assets/55e48f68-d83b-42b1-a02c-7411910898fa" />
+Theme selector
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 205113" src="https://github.com/user-attachments/assets/6f61723e-15f0-457a-871d-34d2b25b8292" />
+change theme
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 205150" src="https://github.com/user-attachments/assets/de15b4e8-a134-4cd9-9715-13985cbb548f" />
+Chat page
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 205232" src="https://github.com/user-attachments/assets/98f13f82-28ab-4ac0-aead-46bd28a798e4" />
+video call Page
+<img width="2880" height="1800" alt="Screenshot 2025-10-02 205333" src="https://github.com/user-attachments/assets/4d04cde2-c880-42f6-973d-bab2524d99b8" />
+
+
 </div>
 
 ---
@@ -392,3 +402,4 @@ If you like this project, please consider:
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=its-shivam-ricky.Zync-Chat)
   
 </div>
+
